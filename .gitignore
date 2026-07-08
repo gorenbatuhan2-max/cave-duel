@@ -1,0 +1,14 @@
+# OS junk
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor / tooling
+.vscode/
+.idea/
+*.tmp
+.tmpREADME
+
+# Node (if tooling is added later)
+node_modules/
+npm-debug.log*
